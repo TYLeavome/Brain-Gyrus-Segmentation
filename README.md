@@ -1,4 +1,4 @@
-# 脑沟脑回分割（Brain Gyrus Segmentation）
+# 脑灰质-脑沟脑回表面分割（Brain Gray Matter - Sulcus & Gyrus Surface Segmentation）
 
 基于 MRI 脑区标注数据，通过 **NIfTI → PLY 网格转换 → Blender 布料收缩模拟** 的流水线，从大脑皮层三维模型中提取脑回（gyrus）表面网格。
 
